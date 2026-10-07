@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 About Me<br><br>🔭 I’m currently working on **Express.js + Drizzle ORM** projects  <br>🤝 I’m looking to collaborate on **React + TypeScript + Tailwind + TanStack Router** apps  <br>🧠 I’m looking for help with **scalable backend patterns and database optimization**  <br>🌱 I’m currently learning **ShadCN UI, advanced Flask integrations, and modern full‑stack workflows**  <br>💬 Ask me about **React, JS/TS, Laravel, Python, Flask, SQLite, MariaDB, and clean UI design**  <br>⚡ Fun fact: I love blending **science, engineering, and creativity** — and when I’m not coding, you’ll find me practicing tabla  <br><br>
+##  About Me<br><br>I’m currently working on **Express.js + Drizzle ORM** projects  <br> I’m looking to collaborate on **React + TypeScript + Tailwind + TanStack Router** apps  <br> I’m looking for help with **scalable backend patterns and database optimization**  <br> I’m currently learning **ShadCN UI, advanced Flask integrations, and modern full‑stack workflows**  <br>💬 Ask me about **React, JS/TS, Laravel, Python, Flask, SQLite, MariaDB, and clean UI design**  <br> Fun fact: I love blending **science, engineering, and creativity** — and when I’m not coding, you’ll find me practicing tabla  <br><br>
 
 
 ## 🌐 Socials:
